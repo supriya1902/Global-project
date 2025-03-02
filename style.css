@@ -51,6 +51,12 @@ p {
     from { opacity: 0; }
     to { opacity: 1; }
 }
+.header{
+    background-image: url('https://tse4.mm.bing.net/th?id=OIP._xMIcvXuh5lrIy4gSm4NtwHaEK&pid=Api&P=0&h=180');
+    background-repeat: no-repeat;
+    background-size: 400px;
+    background-position: center;
+}
 
 .container {
     display: flex;
